@@ -21,8 +21,9 @@ $navbar-default-bg: black;
 }
 
 .jumbotron{
-  background-image: asset-url('alexgrey.jpg');
-
+  background-image: asset-url('houses.jpg');
+  background-size: cover;
+  height: 300px;
 }
 .jumbotron h1{
   color:  #fff;
