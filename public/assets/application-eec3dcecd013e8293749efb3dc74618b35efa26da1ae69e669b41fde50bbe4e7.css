@@ -9194,10 +9194,12 @@ button.close {
 
 /* line 23, app/assets/stylesheets/custom.css.scss */
 .jumbotron {
-  background-image: url(/assets/alexgrey-71b23d80919c142968195a484064c9529cb3730d87cc7ae53f833a1bf7e893ff.jpg);
+  background-image: url(/assets/houses-3be99ce9da1a711ded3fc059610e90441ad0050ddcf9d5f5b73894603777bc05.jpg);
+  background-size: cover;
+  height: 300px;
 }
 
-/* line 27, app/assets/stylesheets/custom.css.scss */
+/* line 28, app/assets/stylesheets/custom.css.scss */
 .jumbotron h1 {
   color: #fff;
   text-align: center;
@@ -9206,37 +9208,37 @@ button.close {
   font-weight: bold;
 }
 
-/* line 35, app/assets/stylesheets/custom.css.scss */
+/* line 36, app/assets/stylesheets/custom.css.scss */
 .btn-xlarge {
   font-size: 1.7em;
   background-color: black;
 }
 
-/* line 40, app/assets/stylesheets/custom.css.scss */
+/* line 41, app/assets/stylesheets/custom.css.scss */
 .article-actions {
   border-top: 1px solid #eaeaea;
   padding-top: 5px;
 }
 
-/* line 45, app/assets/stylesheets/custom.css.scss */
+/* line 46, app/assets/stylesheets/custom.css.scss */
 .description {
   margin-top: 0;
 }
 
-/* line 49, app/assets/stylesheets/custom.css.scss */
+/* line 50, app/assets/stylesheets/custom.css.scss */
 .article-title {
   font-weight: bold;
   font-size: 1.5em;
 }
 
-/* line 54, app/assets/stylesheets/custom.css.scss */
+/* line 55, app/assets/stylesheets/custom.css.scss */
 .article-body {
   border-top: 1px solid #eaeaea;
   padding-top: 15px;
   padding-bottom: 15px;
 }
 
-/* line 60, app/assets/stylesheets/custom.css.scss */
+/* line 61, app/assets/stylesheets/custom.css.scss */
 footer {
   margin-top: 75px;
   padding-top: 5px;
@@ -9244,23 +9246,23 @@ footer {
   color: #777;
 }
 
-/* line 67, app/assets/stylesheets/custom.css.scss */
+/* line 68, app/assets/stylesheets/custom.css.scss */
 footer a:hover {
   color: #222;
 }
 
-/* line 71, app/assets/stylesheets/custom.css.scss */
+/* line 72, app/assets/stylesheets/custom.css.scss */
 footer small {
   float: left;
 }
 
-/* line 75, app/assets/stylesheets/custom.css.scss */
+/* line 76, app/assets/stylesheets/custom.css.scss */
 footer ul {
   float: right;
   list-style: none;
 }
 
-/* line 80, app/assets/stylesheets/custom.css.scss */
+/* line 81, app/assets/stylesheets/custom.css.scss */
 footer ul li {
   float: left;
   margin-left: 15px;
