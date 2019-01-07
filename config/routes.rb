@@ -9,6 +9,6 @@ Rails.application.routes.draw do
 
   get 'signup', to: 'users#new'
 
-  post 'users', to: 'users#create'
-  #resources :users, except: [:new] // lo mismo que arriba excluyendo new de users
+  resources :users, except: [:new]
+  #post 'users', to: 'users#create //lo mismo que arriba excluyendo new de users
 end
