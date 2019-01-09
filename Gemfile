@@ -16,7 +16,7 @@ gem 'puma', '~> 3.7'
 gem 'bootstrap-sass', '~> 3.4.0'
 gem 'sass-rails'
 gem 'jquery-rails'
-
+gem 'devise'
 gem 'will_paginate', '3.1.5'
 
 gem 'bootstrap-will_paginate', '1.0.0'
@@ -36,7 +36,11 @@ gem 'jbuilder', '~> 2.5'
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
-gem 'devise'
+<<<<<<< HEAD
+
+=======
+
+>>>>>>> ba9a8c99024dea5661239903a2234278d99b1993
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
